@@ -16,7 +16,8 @@ A futuristic personal portfolio website built and designed by me.
 - HTML
 - CSS
 - JavaScript  
-*(Add React / Vite)
+*(Add React / Vite هنا لو المشروع بيستخدمهم)*
+
 ## 🚀 Run Locally
 
 ### Prerequisites
